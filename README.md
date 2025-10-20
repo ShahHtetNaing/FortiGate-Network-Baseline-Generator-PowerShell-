@@ -6,3 +6,7 @@ Promotes network standardization and scalability
 Designed with real-world IT operations in mind
 This project reflects my ongoing passion for automating network tasks and building tools that make IT infrastructure more efficient.
 
+Open the code in Notepad++ or another editor, and change the two file paths to work.
+$TemplatePath = 'C:\Users\snaingsu\Documents\Network\Baseline\Baseline_FortiGate_Template.conf'
+$OutputFolder = 'C:\Users\snaingsu\Documents\Network\New config'
+
